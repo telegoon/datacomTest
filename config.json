@@ -1,0 +1,5 @@
+{
+  "demoURL": "https://www.demo.bnz.co.nz/client/",
+  "driverPath": "Drivers/geckodriver.exe",
+  "resultsDir": "results\\"
+}
